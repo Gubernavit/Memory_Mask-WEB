@@ -22,6 +22,8 @@ Veja o projeto em ação:
     https://drive.google.com/file/d/17VYMvRpGFQQX6qiUBCKIFApn19DPCl1\_/view?usp=drive_link
 
 👉 **Quer só jogar?** Baixe o executável ou jogue na web e vá ser feliz.\
+
     * Executavel:    https://drive.google.com/drive/folders/1JcGk6vE4tn-AptumhNbUPtYR8yeiEf8x?usp=drive_link
+    
     * WEB:    https://gubernavit.github.io/Memory_Mask-WEB/
 
